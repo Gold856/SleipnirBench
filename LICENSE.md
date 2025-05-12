@@ -1,4 +1,5 @@
 Copyright (c) 2023 Tyler Veness
+Copyright (c) 2025 Gold856
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
